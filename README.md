@@ -28,7 +28,7 @@ Node.js & npm installed
 MongoDB (Atlas or local)
 
 # 1️⃣ Clone the repo
-git clone https://github.com/your-username/book-review-api.git
+git clone https://github.com/mahesh079/book-review-management-system.git
 cd backend
 
 # 2️⃣ Install dependencies
