@@ -38,7 +38,7 @@ npm install
 npm run dev
 # Server running at http://localhost:5000
 
-
+In the Demo Data Document.docx file there is dummy data to test each api request
 
  Below is the detailed Database Schema Design — Book Review API (MongoDB)
 
